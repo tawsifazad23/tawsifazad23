@@ -1,14 +1,15 @@
 # Tawsif Ibne Azad | Full-Stack Developer & Computer Science Student  
 
-👋 Hi there! I'm Tawsif, a Computer Science student at the University of Massachusetts Amherst (GPA: 3.8).  
-I specialize in building **scalable full-stack applications**, **cloud-native systems**, and exploring **AI for governance and security**.  
+👋 Hi there! I'm Tawsif, a Computer Science student at the University of Massachusetts Amherst.  
+
+I specialize in building **scalable full-stack applications**, **cloud-native systems**, and exploring **AI for developer tooling**.  
 With experience across **telecom (Verizon)**, **IoT (Bondstein)**, and **startup projects (Kormo Mela, Techwizz.ai)**, I thrive at the intersection of **software engineering and entrepreneurship**.  
 
 ---
 
 ## 🔭 Currently Working On
 - **APIF CLI Ruleset Generator @ Verizon**  
-  Built a TypeScript-based governance engine used by 800+ developers to validate APIs against RAMM standards.  
+  Built a TypeScript-based governance engine used by 800+ developers to validate APIs against interal standards.  
 
 - **Deepfake Detection & Voice Provenance Research (Verizon Applied Research)**  
   Prototyping **C2PA watermarking** and **deepfake detection models** to authenticate voice/video content.  
@@ -22,7 +23,6 @@ With experience across **telecom (Verizon)**, **IoT (Bondstein)**, and **startup
 **University of Massachusetts Amherst**  
 B.S. in Computer Science — *Expected Dec 2025*  
 - Chancellor’s Award Scholarship ($64K)  
-- Dean’s List (All Semesters)  
 - Relevant Courses: Web Systems, AI, Computer Vision, Cloud Computing  
 
 ---
@@ -38,9 +38,8 @@ B.S. in Computer Science — *Expected Dec 2025*
 
 ## 📌 Featured Projects
 - [**Kormo Mela App**](https://github.com/tawsifazad23/Kormo-Mela-Customer-React-Native-App) — React Native app for trusted service providers in Bangladesh.  
-- **APIF CLI Ruleset Generator** — TypeScript module powering Verizon’s governance CLI.  
 - **Techwizz.ai** — GPT-powered quiz platform for students.  
-- **GlobalThreads** — Digital apparel sourcing ecosystem for factories & buyers.  
+
 
 ---
 
