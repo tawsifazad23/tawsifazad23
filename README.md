@@ -4,7 +4,10 @@
 Alana · PLASMA Lab (ChatDBG) · ex-Verizon · ex-Bondstien Technologies
 
 👋🏽 Hi, I’m Tawsif — PM instincts, engineer execution.  
-I build systems with **production constraints and end users in mind from day one** — API tooling, data platforms, and trust-first marketplaces.
+
+I design systems with **production constraints and end users in mind from day one** —  
+especially when scale, reliability, or clarity actually matter.
+ 
 
 
 ---
