@@ -1,7 +1,7 @@
 # Tawsif Ibne Azad  
 
 **Product-driven Full-Stack Engineer • CS @ UMass Amherst**  
-Alana · PLASMA Lab (ChatDBG) · ex-Verizon · Kormo Mela
+Alana · PLASMA Lab (ChatDBG) · ex-Verizon · ex-Bondstien Technologies
 
 👋🏽 Hi, I’m Tawsif — PM instincts, engineer execution.  
 I build systems with **production constraints and end users in mind from day one** — API tooling, data platforms, and trust-first marketplaces.
